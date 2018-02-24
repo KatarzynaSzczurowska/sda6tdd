@@ -1,0 +1,4 @@
+// pliki, które mają być pomijane
+.idea/
+target/
+*.iml
